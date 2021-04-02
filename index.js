@@ -9,3 +9,7 @@
 // import './js/homework-js/variables.js';
 // import './js/homework-js/primitives.js';
 // import './js/homework-js/toString.js';
+// import './js/homework-js/toNumber.js';
+// import './js/homework-js/toBoolean.js';
+import './js/homework-js/falsyValues.js';
+
