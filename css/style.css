@@ -1,0 +1,39 @@
+ul {
+  list-style: none;
+}
+
+.calculator {
+  display: flex;
+  flex-flow: column;
+  justify-content: space-evenly;
+  align-items: center;
+  border: 1px solid black;
+  padding: 20px;
+}
+
+.numbers {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-evenly;
+  align-items: center;
+  /* border: 1px solid black; */
+}
+
+li {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 5px;
+  margin: 10px;
+  box-shadow: 0 0 10px black;
+}
+
+.operators {
+  display: flex;
+}
+
+.result {
+  border: 1px solid;
+  width: 50px;
+  height: 50px;
+}

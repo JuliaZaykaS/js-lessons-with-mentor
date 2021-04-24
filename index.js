@@ -14,7 +14,12 @@
 // import './js/homework-js/falsyValues.js';
 
 // ЗАНЯТИЕ 2
-import './js/callback.js';
+// import './js/callback.js';
+
+// ЗАНЯТИЕ 3
+// import './js/calculator.js';
+import './js/junior.js';
+
 
 
 
