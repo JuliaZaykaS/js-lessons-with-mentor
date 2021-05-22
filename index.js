@@ -18,7 +18,11 @@
 
 // ЗАНЯТИЕ 3
 // import './js/calculator.js';
-import './js/junior.js';
+// import './js/junior.js';
+
+// ЗАНЯТИЕ 4
+import './js/dom.js';
+
 
 
 
