@@ -21,9 +21,12 @@
 // import './js/junior.js';
 
 // ЗАНЯТИЕ 4
-import './js/dom.js';
+// import './js/dom.js';
+
+// ЗАНЯТИЕ 5
 
 
 
+import './js/api-photo.js';
 
 
